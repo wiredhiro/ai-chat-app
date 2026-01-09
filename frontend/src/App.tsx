@@ -83,8 +83,7 @@ function App() {
       <div className='app'>
         <header className='app-header'>
           <div className='app-title'>
-            <span className='logo-dot' />
-            <h1>My AI Chat</h1>
+            <h1>ゆるチャット</h1>
           </div>
           <span className='app-subtitle'>Python + React</span>
         </header>
